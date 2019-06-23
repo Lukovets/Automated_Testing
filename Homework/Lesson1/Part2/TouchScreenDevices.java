@@ -1,91 +1,92 @@
 public class TouchScreenDevices {
-<<<<<<< HEAD
-                 private String brand; 
-				 private String model; 
-				 private String core; 
-				 private String battery;
-				 private String operating system;
-				 private String internal memory;				 
-				 private String camera;					 
-				 private int screen diagonal;
-				 private int ram; 
-				 private int screen resolution;
-				 
-public String getBrand () { 
-		return brand; 
+	private String brand;
+	private String model;
+	private String core;
+	private String battery;
+	private String operatingSystem;
+	private String internalMemory;
+	private String camera;
+	private int screenDiagonal;
+	private int ram;
+	private int screenResolution;
+
+	public String getBrand() {
+		return brand;
 	}
-public void setBrand (String brand) {
+
+	public void setBrand(String brand) {
 		this.brand = brand;
 	}
-public String getModel () { 
-		return model; 
+
+	public String getModel() {
+		return model;
 	}
-public void setModel (String model) {
+
+	public void setModel(String model) {
 		this.model = model;
 	}
-public int getScreenDiagonal () { 
-		return screen diagonal; 
+
+	public String getCore() {
+		return core;
 	}
-public void setScreenDiagonal (int screen diagonal) {
-		this.screen diagonal = screen diagonal;
-	}			
-public String getCore () { 
-		return core; 
-	}
-public void setCore (String core) {
+
+	public void setCore(String core) {
 		this.core = core;
 	}
-public int getRam () { 
-		return ram; 
+
+	public String getBattery() {
+		return battery;
 	}
-public void setRam (int ram) {
-		this.ram = ram;
-	}			
-public String getBattery () { 
-		return battery; 
-	}
-public void setBattery (String battery) {
+
+	public void setBattery(String battery) {
 		this.battery = battery;
 	}
-public String getOperatingSystem () { 
-		return operating system; 
+
+	public String getOperatingSystem() {
+		return operatingSystem;
 	}
-public void setOperatingSystem (String operating system) {
-		this.operating system = operating system;
+
+	public void setOperatingSystem(String operatingSystem) {
+		this.operatingSystem = operatingSystem;
 	}
-public String getInternalMemory () { 
-		return internal memory; 
+
+	public String getInternalMemory() {
+		return internalMemory;
 	}
-public void setInternalMemory (String internal memory) {
-		this.internal memory = internal memory;
+
+	public void setInternalMemory(String internalMemory) {
+		this.internalMemory = internalMemory;
 	}
-public int getScreenResolution () { 
-		return screen resolution; 
+
+	public String getCamera() {
+		return camera;
 	}
-public void setScreenResolution (int screen resolution) {
-		this.screen resolution = screen resolution;
-	}			
-public String getCamera () { 
-		return camera; 
-	}
-public void setCamera (String camera) {
+
+	public void setCamera(String camera) {
 		this.camera = camera;
 	}
-	
+
+	public int getScreenDiagonal() {
+		return screenDiagonal;
+	}
+
+	public void setScreenDiagonal(int screenDiagonal) {
+		this.screenDiagonal = screenDiagonal;
+	}
+
+	public int getRam() {
+		return ram;
+	}
+
+	public void setRam(int ram) {
+		this.ram = ram;
+	}
+
+	public int getScreenResolution() {
+		return screenResolution;
+	}
+
+	public void setScreenResolution(int screenResolution) {
+		this.screenResolution = screenResolution;
+	}
 }
-=======
-                 private String brand; //internal attribute 
-				 private String model; //internal attribute 
-				 private int screen diagonal; //internal attribute 
-				 private String core; //internal attribute 
-				 private int ram; //internal attribute 
-				 private String battery; //internal attribute 
-				 private String operating system; //internal attribute 
-				 private String internal memory; //internal attribute 
-				 private int screen resolution;	//internal attribute 
-				 private String camera; //internal attribute
-				 
-public String getBrand () { return brand; } //the way to get information about brand
-public String getModel () { return model; } //the way to get information about model
-                               }
->>>>>>> e2f678ae8e33ced5aff4fb3c7cc2943f24b24a56

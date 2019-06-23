@@ -1,69 +1,83 @@
 public class Employee {
-					private String name;
-					private String education;
-					private String duties;
-					private String skills;			 
-					private String marital status;				 		 
-					private int date of birth;
-					private int social security number;
-					private int passport;
-					private boolean car;
-					
-public String getName () { 
-		return name; 
+	private String name;
+	private String education;
+	private String duties;
+	private String skills;
+	private String maritalStatus;
+	private int dateOfBirth;
+	private int socialSecurityNumber;
+	private int passport;
+	private boolean car;
+
+	public String getName() {
+		return name;
 	}
-public void setName (String name) {
+
+	public void setName(String name) {
 		this.name = name;
 	}
-public String getEducation () { 
-		return education; 
+
+	public String getEducation() {
+		return education;
 	}
-public void setEducation (String education) {
+
+	public void setEducation(String education) {
 		this.education = education;
-	}	
-public String getDuties () { 
-		return duties; 
 	}
-public void setDuties (String duties) {
+
+	public String getDuties() {
+		return duties;
+	}
+
+	public void setDuties(String duties) {
 		this.duties = duties;
-	}	
-public String getSkills () { 
-		return skills; 
 	}
-public void setSkills (String skills) {
+
+	public String getSkills() {
+		return skills;
+	}
+
+	public void setSkills(String skills) {
 		this.skills = skills;
-	}	
-public String getMaritalStatus () { 
-		return marital status; 
 	}
-public void setMaritalStatus (String marital status) {
-		this.marital status = marital status;
-	}	
-public int getDateOfBirth () { 
-		return date of birth; 
+
+	public String getMaritalStatus() {
+		return maritalStatus;
 	}
-public void setDateOfBirth (int date of birth) {
-		this.date of birth = date of birth;
+
+	public void setMaritalStatus(String maritalStatus) {
+		this.maritalStatus = maritalStatus;
 	}
-public int getSocialSecurityNumber () { 
-		return social security number; 
+
+	public int getDateOfBirth() {
+		return dateOfBirth;
 	}
-public void setSocialSecurityNumber (int social security number) {
-		this.social security number = social security number;
-	}	
-public int getPassport () { 
-		return passport; 
+
+	public void setDateOfBirth(int dateOfBirth) {
+		this.dateOfBirth = dateOfBirth;
 	}
-public void setPassport (int passport) {
+
+	public int getSocialSecurityNumber() {
+		return socialSecurityNumber;
+	}
+
+	public void setSocialSecurityNumber(int socialSecurityNumber) {
+		this.socialSecurityNumber = socialSecurityNumber;
+	}
+
+	public int getPassport() {
+		return passport;
+	}
+
+	public void setPassport(int passport) {
 		this.passport = passport;
 	}
-public boolean getCar () { 
-		return car; 
+
+	public boolean isCar() {
+		return car;
 	}
-public void setCar (boolean car) {
+
+	public void setCar(boolean car) {
 		this.car = car;
-	}
-public void setPosition (String newPosition) {
-	setPosition = newsetPosition
 	}
 }

@@ -1,90 +1,92 @@
 public class Cosmetics {
-<<<<<<< HEAD
-                 private String brand;
-				 private String type;
-				 private String theclass;
-				 private String forhair;
-				 private String forface;
-				 private String foreyes;
-				 private String forhands;
-				 private String forbody;
-				 private String forbeach; 
-				 private String oral cavity;
-			
-public String getBrand () { 
-		return brand; 
+	private String brand;
+	private String type;
+	private String theClass;
+	private String forHair;
+	private String forFace;
+	private String forEyes;
+	private String forHands;
+	private String forBody;
+	private String forBeach;
+	private String oralCavity;
+
+	public String getBrand() {
+		return brand;
 	}
-public void setBrand (String brand) {
+
+	public void setBrand(String brand) {
 		this.brand = brand;
 	}
-public String getType () { 
-		return type; 
+
+	public String getType() {
+		return type;
 	}
-public void setType (String type) {
+
+	public void setType(String type) {
 		this.type = type;
-	}	
-public String getTheClass () { 
-		return theclass; 
 	}
-public void setTheClass (String theclass) {
-		this.theclass = theclass;
-	}		
-public String getForHair () { 
-		return forhair; 
+
+	public String getTheClass() {
+		return theClass;
 	}
-public void setForHair (String forhair) {
-		this.forhair = forhair;
-	}		
-public String getForFace () { 
-		return forface; 
+
+	public void setTheClass(String theClass) {
+		this.theClass = theClass;
 	}
-public void setForFace (String forface) {
-		this.forface = forface;
+
+	public String getForHair() {
+		return forHair;
 	}
-public String getForEyes () { 
-		return foreyes; 
+
+	public void setForHair(String forHair) {
+		this.forHair = forHair;
 	}
-public void setForEyes (String foreyes) {
-		this.foreyes = foreyes;
-	}	 
-public String getForHands () { 
-		return forhands; 
+
+	public String getForFace() {
+		return forFace;
 	}
-public void setForHands (String forhands) {
-		this.forhands = forhands;
+
+	public void setForFace(String forFace) {
+		this.forFace = forFace;
 	}
-public String getForBody () { 
-		return forbody; 
+
+	public String getForEyes() {
+		return forEyes;
 	}
-public void setForBody (String forbody) {
-		this.forbody = forbody;
-	}	
-public String getForBeach () { 
-		return forbeach; 
+
+	public void setForEyes(String forEyes) {
+		this.forEyes = forEyes;
 	}
-public void setForBeach (String forbeach) {
-		this.forbeach = forbeach;
-	}	
-public String getOralCavity () { 
-		return oral cavity; 
+
+	public String getForHands() {
+		return forHands;
 	}
-public void setOralCavity (String oral cavity) {
-		this.oral cavity = oral cavity;
-	}	
-}	
-=======
-                 private String brand; //internal attribute 
-				 private String type; //internal attribute 
-				 private String theclass; //internal attribute 
-				 private String for hair; //internal attribute 
-				 private String for face; //internal attribute 
-				 private String for eyes; //internal attribute 
-				 private String for hands; //internal attribute 
-				 private String for body; //internal attribute 
-				 private String for beach; //internal attribute 
-				 private String for oral cavity; //internal attribute 
-				 
-public String getBrand () { return brand; } //the way to get information about brand
-public String getType () { return type; }  //the way to get information about type
-					}
->>>>>>> e2f678ae8e33ced5aff4fb3c7cc2943f24b24a56
+
+	public void setForHands(String forHands) {
+		this.forHands = forHands;
+	}
+
+	public String getForBody() {
+		return forBody;
+	}
+
+	public void setForBody(String forBody) {
+		this.forBody = forBody;
+	}
+
+	public String getForBeach() {
+		return forBeach;
+	}
+
+	public void setForBeach(String forBeach) {
+		this.forBeach = forBeach;
+	}
+
+	public String getOralCavity() {
+		return oralCavity;
+	}
+
+	public void setOralCavity(String oralCavity) {
+		this.oralCavity = oralCavity;
+	}
+}
