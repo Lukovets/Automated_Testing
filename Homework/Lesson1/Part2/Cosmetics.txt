@@ -1,0 +1,24 @@
+Attributes:
+
+1) Brand
+2) Type
+3) Class
+4) For hair
+5) For face
+6) For eyes
+7) For hands
+8) For body
+9) For beach
+10)For oral cavity
+
+
+Methods (public): cleansing, care, protection, moisturizing, recovery, straightening, softening, whitening, fortification, giving freshness.
+
+
+
+
+
+
+
+
+

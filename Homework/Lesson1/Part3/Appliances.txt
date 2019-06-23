@@ -1,0 +1,83 @@
+<<<<<<< HEAD
+Attributes:
+
+1) Brand
+2) Model
+3) Type
+4) Energy class
+5) Installation method
+6) Display
+7) Maximum load
+8) Operation mode
+9) Volume
+10)Dimensions
+
+Additional attributes:
+
+11)Freezer
+12)Freshness zone
+13)Compressor
+14) Centrifuge
+15) Engine
+16) Wi-Fi module
+17) Area
+18) Form
+19) Heating element
+20) Power
+
+Methods (public): to clean, to dry, wash clothes, to refrigerate, to heat, to defrost, wash the dishes, to keep, to iron, to cook.
+
+Additional Methods (private): make ice, keep fresh, delicate wash, reboot, cool the air, heat the air, heat the water, keep temperature.
+
+
+
+
+
+
+
+
+
+
+
+=======
+Attributes:
+
+1) Brand
+2) Model
+3) Type
+4) Energy class
+5) Installation method
+6) Display
+7) Maximum load
+8) Operation mode
+9) Volume
+10)Dimensions
+
+Additional attributes:
+
+11)Freezer
+12)Freshness zone
+13)Compressor
+14) Centrifuge
+15) Engine
+16) Wi-Fi module
+17) Area
+18) Form
+19) Heating element
+20) Power
+
+Methods (public): to clean, to dry, wash clothes, to refrigerate, to heat, to defrost, wash the dishes, to keep, to iron, to cook.
+
+Additional Methods (private): make ice, keep fresh, delicate wash, reboot, cool the air, heat the air, heat the water, keep temperature.
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> e2f678ae8e33ced5aff4fb3c7cc2943f24b24a56

@@ -1,0 +1,21 @@
+Attributes: 
+
+1) Brand
+2) Screen diagonal
+3) RAM
+4) Core
+5) Battery
+6) Operating system
+7) Internal memory
+8) Screen resolution
+9) Camera
+10)Model
+
+Methods part 1 (private): play video, play melody, display image, open text files, send email, make calls.
+Methods part 2 (public): take a photo, make a video, play online games, to buy online.
+
+
+
+
+
+

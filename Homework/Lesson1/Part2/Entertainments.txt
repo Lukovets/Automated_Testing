@@ -1,0 +1,14 @@
+Attributes: 
+
+1) Type
+2) Place
+3) Skills
+4) Physical health
+5) Educability
+6) Mood
+7) Wish
+8) Fears
+9) Memory
+10) Imagination
+
+Methods (public): go on excursions, ride horses, flying a balloon, sail on the river, jump with a trampoline, sing karaoke, dance at a master class, to skate, fly a plane, taste wine.

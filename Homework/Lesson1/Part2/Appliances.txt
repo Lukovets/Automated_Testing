@@ -1,0 +1,22 @@
+Attributes:
+
+1) Brand
+2) Model
+3) Type
+4) Energy class
+5) Installation method
+6) Display
+7) Maximum load
+8) Operation mode
+9) Volume
+10)Dimensions
+
+Methods (public): to clean, to dry, wash clothes, to refrigerate, to heat, to defrost, wash the dishes, to keep, to iron, to cook.
+
+
+
+
+
+
+
+

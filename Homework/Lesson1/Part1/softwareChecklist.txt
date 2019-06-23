@@ -1,0 +1,7 @@
+Java - INSTALLED
+IntelliJ IDEA - INSTALLED
+xMind - INSTALLED
+Firefox Developer Edition - INSTALLED
+oCam - INSTALLED
+Git repository - INSTALLED (i.e. account is set up)
+TeamViewer - INSTALLED

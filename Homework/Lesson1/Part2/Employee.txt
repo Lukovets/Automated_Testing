@@ -1,0 +1,32 @@
+Attributes: 
+
+1) Last name and first name (name)
+2) Date of birth
+3) Social security number
+4) Marital status
+5) Passport
+6) Education
+7) Position
+8) Duties
+9) Skills
+10)Car
+
+Methods part 1 (private): create reports, create graphics, scan documents, sign contracts, negotiate, clean the room, answer calls, make printer settings.
+Methods part 2 (public): to drink coffee, to make decisions. 
+	   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

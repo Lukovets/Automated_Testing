@@ -1,0 +1,24 @@
+Attributes: 
+
+1) Volume
+2) Diameter
+3) Material
+4) Type of cookware (pan, baking dish)
+5) Colour
+6) Brand
+7) Producing country
+8) Compatibility with heat sources
+9) Cover (yes/no)
+10) Non-stick coating
+
+Methods part 1 (private): to cook soup, to fry potatoes, to stew meat, to bake a pie, use in microwave.
+Methods part 2 (public): set the table, mix ingredients, cook without oil, to store ready food, to use dishwasher.
+
+
+
+
+
+
+
+
+
