@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate:hibernate-java8:${hibernate.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-java8/${hibernate.version}/hibernate-java8-${hibernate.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-java8/${hibernate.version}/hibernate-java8-${hibernate.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-java8/${hibernate.version}/hibernate-java8-${hibernate.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
