@@ -9,6 +9,13 @@ public class Employee {
 	private int passport;
 	private boolean car;
 
+	public Employee(){}
+	
+	public Employee(boolean car, int passport){
+	this.car = car;
+	this.passport = passport;
+	}
+	
 	public String getName() {
 		return name;
 	}
@@ -79,5 +86,27 @@ public class Employee {
 
 	public void setCar(boolean car) {
 		this.car = car;
+	}
+	
+	public void showMeYourBadge(){
+	System.out.println("Employee name "+name);
+		System.out.println("Employee car "+car);
+		System.out.println("Employee passport "+passport);
+	}
+	
+	public static void main(String[] args){
+	Employee empl1 = new Employee();
+	Employee empl2 = new Employee(false, 12345);
+	empl1.setName("Nataliia");
+	empl1.setCar(false);
+	empl1.setPassport("1234");
+	
+	empl2.setName("Sergii");
+	empl1.showMeYourBadge();
+	empl2.showMeYourBadge();
+		
+		
+	
+		
 	}
 }
